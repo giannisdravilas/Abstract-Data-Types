@@ -6,6 +6,7 @@ This repository contains the implementation of the following ADTs:
 - ADTPriorityQueue using ADTSet, as well as using Heap
 - ADTMap using Hash Tables
 - ADTGraph using Adjacency Lists
+- ADTVector using ADTMap
 
 A static library of the modules used to implement the ADTs is also included, in order to allow a further use.
 
